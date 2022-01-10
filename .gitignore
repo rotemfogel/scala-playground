@@ -1,0 +1,7 @@
+.idea/
+/*.json
+/*.lst
+/*.txt
+project/project
+project/target
+target
